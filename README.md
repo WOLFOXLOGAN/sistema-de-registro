@@ -10,3 +10,7 @@
   Para ejecutar el sistemas debes, poner:
 
   ```npm install react```
+
+     <p align="left">
+   <img src="https://img.shields.io/badge/Sistema-DE%20REGISTRO%202-blue">
+   </p>
